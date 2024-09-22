@@ -1,0 +1,722 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ("5îä°¾ú(\x0e\x81ÂPG\x06Á-Ã!\\'")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¢ù\x03\x93ì(\x93\x82I\x8c¥R¯=\x12\x98')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x86\x1a')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x04\x96M\x9b°m3')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('°íªa¬\x92û\x82ùsÂşÓD~')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03S\x98Q¦N{Ş')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('4#j×\x99Ê~IbK°\x02xUv\x1b\x7f.\x99+')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SJJ\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03\x00#\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÁêÅ`òÀ>ãŞiæ<\x8dg_§ü$[@XW63ápo\x9d\x19~\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('B3}6hF\\')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('+5ºGGûVôúi²\x9a\x15G')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ğ¶_\x12úÍ¿&9AK5\x18y`\x0f')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('/')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('$Ê`rO*`ÆÇ\\Õ+\x83\\\x89ÎO\x07t\x00L[Ë\xadt')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ã\x7f\x97g')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('g*\x10Ğ\x06ª\x16\x97d\x8d')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x7f\x92#½!\x8f¸eÛv)\x8fw')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Î_')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /hostel/hostels/ HTTP/1.1" 301 0
+code 400, message Bad request version ("\x08\x10?éF@\x90V¨¼¶µ¼Å\x16ó\x94yİ'`¸")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06szz\x00\x00\x00\x17\x00\x00\x00+\x00\x07\x06ÊÊ\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ñ&mõ|ş\x92sl\x95\x06Oæn#ßHı!\x02')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x9a\x9a\x00\x00ÿ\x01\x00\x01\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ù¬ÄÛ\x8d·üaÛ¥\x04ıH\x89\\')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ZZ\x00\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Æ®¹ê\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('W¾ò\x89ß£¦#Éìh/íäºövÖÊŞİRÒş¶éëeõ\x8b6ô\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('a\x94¼{s\x12\x18\x87;Ûæ¹\x88Y\x17ü§m®Û?Zk\x91ç×\x1bÏğ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x87µÓ\x87±Qt\x9b¶G\xadòt')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('.a¿ëL\x0e8DÂ¸"º°È°¥±19\x94GÉ\x97¡.Q\x9d¸£?p')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x90§¹£8e\x8aÖ<Ø©p^Òw®¸\x01ñ\x11,éw:Db\x00ß:^ı\x17¸\x9fÇTtê~á\x94*|G\x88\x8cû\x979¡\x90<ùx¹\x92\xadÿF\x06\x9fÒ=q2A\x80SNë\x90¦îêJ\x92\x8cO\x93Ó\x84ËAf<Z\x84\x92P\x887tª¹Ã\x14Eªqº\x12\x03\x03¡\x12âÇ:\x07Û¶Ë\x03¸k\x92ª\x054\x01/')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93\x9a\x9a\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8e98"\x04T')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¦\x19¥qP7\x9bO)å:\x82')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03[ú÷.jş')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sêê\x00\x00Di\x00\x05\x00\x03\x02h2\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('4\x9e\x12xy\x80U\x94Ù9ÙRÕ\x86f)I\x18\x8f\x84·\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ñ\x14Dù\x1bzÛ¦')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S::\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x83+¿\x17\x8f¡')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sºº\x00\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('v7@\x076)\x1a\x01ªø\x182[2ÖtóEé²§¾1\x99ğ&y\x98ì\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x04dv\x91¸\x86v5Ş')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('~×Q«\x1aDíè.«\x18)\x13Ó\x0e\x8f¼mtè²¿ªvU1\x06OtC\x9båK¿')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93JJ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x01\x95\x8b4jŞË\x90Ö\x06E\x00\x0eĞæ\x9chø\x92\x8bä\x08T[Ux\x01}Öq\x82Õ.Fp¶ÆC40"a-`c\x88\x9fïÎ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06szz\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\xadãûÊ\x9cQ\x1a')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x86\x80E6yĞ¹Ö\x03ÚªÖÓ¡Zs\x96÷ØİŞñ\x10¶')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03ÿJÑeVEô<')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¯ÇË$\x84=ä0\x82EØS×["uCmöAğj\x13\x1bÈ\\U¸\x91÷\x80[\x00\x90´2Eì(')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00:\x84ú[\x91\x15k\xadâû\x93âM\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00\x1b\x00\x03\x02\x00\x02\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ò\x93ºJâ\x14\x00ıÉB\x08?\x92\x15\x15\x98[*\x1aZ\x06¤ÊF¤¼\x95\x1b±\x9c\x14\x893Ş\x8c\xad\x8fò\x86òU¹»Ã%}iË\x19ÌÍÎw£')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x93¹§ö\x83ï\x81')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00#\x00\x00\x00+\x00\x07\x06::\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ä¤\x84¶cR6\x05×äó·mÔ\x8d2/$«_\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('u\x91k"\x02\x8dâı\x01\x15\x00\x0eZ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ú\x97\x83\x9aÇMy\x90Di\x00\x05\x00\x03\x02h2\x003\x04ï\x04íjj\x00\x01\x00c\x99\x04À\x91\x14P»\x049\x15îº¼ã.Ä\x8e')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ('Ç9ıL\x80\x87ÙÎL±\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x003\x04ï\x04íJJ\x00\x01\x00c\x99\x04À\x03|fB\x01P')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ÊÊ\x00\x00\x00+\x00\x07\x06zz\x03\x04\x03\x03\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ("\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03=à\x88½½ZoÖ&¢\x1a¶\x030åY\x8aÈøÌC?»j¿J\x82F'")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x19\x8bàj\x98"\x01«ñ7\x8dL,\x10Sê\x08Mì}®lT')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("«\x8dq\x00\x00$À,À+À0À/À$À#À(À'À")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x97\x01\x00\x00\x93\x03\x03fï¼O@b?V]<pßÊÆS^éæ½\x87\x81')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x97\x01\x00\x00\x93\x03\x03fï¼R\x86;\x06`')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('\x7f\x0f|¿\x8cÕÅ¹\x08¦`®')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('ÇéÄØ2Å\x89ßy\x05\x9bïPx+\x9e$IO-!a\x98)\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03Ù')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+code 400, message Bad request version ('Ù\x12\x96\x9a\x05\x8avy')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x003\x04ï\x04íªª\x00\x01\x00c\x99\x04Àäá')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x87\x05')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03ø\x88t\x81³\x98\x9d\x9cP²WzçÎb\x15\x17§İ'R\x18üåI\x18#íZå6¸")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("M«1ü´E©#\x8e?$emÚ[\\9\x0e#\x13=Gte'\x12\x9a\x03YÎyé\x00¢Á\x91`\x86")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+code 400, message Bad request version (']Âşçl\x9a±\x11Sàíu\\}\x88ü7Õ;Æ\x80^Ù¤')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x11P¶\x10\x81xrR\x91£s`üÿ%)qjùÿ\x01®ÏÎö{')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('±\x01S»w\x9b¶ò}ÍkÏ±õ/\x17LV¹|k¡\x10*')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Rù4óç¿')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET / HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\middleware.py", line 12, in process_request
+    request._messages = default_storage(request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\__init__.py", line 12, in default_storage
+    return import_string(settings.MESSAGE_STORAGE)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\fallback.py", line 17, in __init__
+    storage_class(*args, **kwargs) for storage_class in self.storage_classes
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\contrib\messages\storage\cookie.py", line 92, in __init__
+    self.signer = signing.get_cookie_signer(salt=self.key_salt)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\signing.py", line 114, in get_cookie_signer
+    key=_cookie_signer_key(settings.SECRET_KEY),
+                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\conf\__init__.py", line 98, in __getattr__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+"GET /favicon.ico HTTP/1.1" 500 145
+D:\Projects\hostel_management\src_dashboard\views.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('#y\x90÷\x9ckÔwl|\x10k\x0e\x16Ièğm\x9c¥V,\x9a\x1b-')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06szz\x00\x00\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('8z\x0fü¼¢{Ô\x14`ùÿ\x8cEåJ\x19')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x11\x03Y¡')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Projects\hostel_management\hostel_management_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 3950
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4001
+"GET /register HTTP/1.1" 301 0
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4001
+"POST /register/ HTTP/1.1" 201 9277
+"OPTIONS /register/ HTTP/1.1" 200 11568
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+code 400, message Bad request version ('îbö·¥\x84i?ç\x91q\x12$öYÚ|\x88Z(~-Â\x16')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ºº\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('FìÀn#¨~\x9a\x86PØl¤:KMä½')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03ì¢\x08\x17ÚØ\x9dBl«t8\x04Ñ\x95\x95X\x87å')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¥¯\x05ÒúD\x8eöQrÓÜ¸z}A7W?æ\x96ç´\x16\x8b\x15\x03døÑ.]\x9fJ-r\x8a\x14¸½\x00`|Gò`\x8dõ}Ìş¡{')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+"GET / HTTP/1.1" 404 3950
+code 400, message Bad request version ('Ùp³]\x7fbh7\x81ã')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Å4./E')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ó«¶\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00-\x00\x02\x01\x01\x00+\x00\x07\x06ZZ\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('áÑ_QÖ\x9eù·\x84öÿk8Ş\x8fOkP\x89')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ZZ\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x085ö¼ËÜlzAÃ\x95y\x97ZFåÁ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x97³X')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Szz\x00\x00\x00#\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06zz\x03\x04\x03\x03\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x03`æÊbÏ¨·¡¥\x82°ÊUÀø%\x83h')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063JJ\x00\x00ÿ\x01\x00\x01\x00\x003\x04ï\x04í::\x00\x01\x00c\x99\x04À\x904d[\x8cG¥\x97Ü¡×mnÈü¥I¦Eßî;')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('±Ğ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('a\x19)¢k\x19sl&Qwc')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x10Óí¸:Ú')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+"GET / HTTP/1.1" 404 3950
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4001
+Not Found: /
+"GET / HTTP/1.1" 404 3950
+Not Found: /
+"GET / HTTP/1.1" 404 3950
+"GET /register HTTP/1.1" 301 0
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"POST /register/ HTTP/1.1" 201 9258
+"GET /login HTTP/1.1" 301 0
+Method Not Allowed: /login/
+"GET /login/ HTTP/1.1" 405 5549
+Bad Request: /login/
+"POST /login/ HTTP/1.1" 400 5533
+Method Not Allowed: /login/
+"GET /login/ HTTP/1.1" 405 5549
+Method Not Allowed: /login/
+"GET /login/ HTTP/1.1" 405 5549
+"OPTIONS /login/ HTTP/1.1" 200 5819
+"OPTIONS /login/ HTTP/1.1" 200 5819
+Method Not Allowed: /login/
+"GET /login/ HTTP/1.1" 405 5549
+Bad Request: /login/
+"POST /login/ HTTP/1.1" 400 5533
+"POST /login/ HTTP/1.1" 200 5536
+Method Not Allowed: /login/
+"GET /login/ HTTP/1.1" 405 5549
+"GET /profile HTTP/1.1" 301 0
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 4939
+"GET /register HTTP/1.1" 301 0
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 40
+"GET /profile HTTP/1.1" 301 0
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+"GET /profile HTTP/1.1" 301 0
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+"GET /profile?token=eyJhbGciOiJIUzI1NiJ9.e30.rbmabJJIqCwGSzI2PUuETlEBTnDv0GJSJX5q4AOEA_4 HTTP/1.1" 301 0
+Forbidden: /profile/
+"GET /profile/?token=eyJhbGciOiJIUzI1NiJ9.e30.rbmabJJIqCwGSzI2PUuETlEBTnDv0GJSJX5q4AOEA_4 HTTP/1.1" 403 58
+"GET /profile HTTP/1.1" 301 0
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+Method Not Allowed: /register/
+"GET /register/ HTTP/1.1" 405 8898
+Internal Server Error: /register
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8001/register/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+"POST /register HTTP/1.1" 500 72693
+Internal Server Error: /register
+Traceback (most recent call last):
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\angel\.virtualenvs\hostel_management-eqOzlleA\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8001/register/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+"POST /register HTTP/1.1" 500 72661
+"POST /register/ HTTP/1.1" 201 143
+"POST /login/ HTTP/1.1" 200 52
+"POST /login/ HTTP/1.1" 200 52
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"POST /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 4939
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+Forbidden: /profile/
+"GET /profile/ HTTP/1.1" 403 58
+D:\Projects\hostel_management\authentication\views.py changed, reloading.
